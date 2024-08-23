@@ -1,0 +1,6 @@
+@Design_XCorePro_HostAddress = http://localhost:5178
+
+GET {{Design_XCorePro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
